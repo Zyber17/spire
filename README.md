@@ -1,2 +1,2 @@
-# spire
+# Spire
 prototype game
